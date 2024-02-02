@@ -1,3 +1,11 @@
 name: main
-nodes: []
-edges: []
+nodes:
+  code-0:
+    id: code-0
+    title: Main
+    pos:
+      x: 130
+      'y': 156
+    options: {}
+    block: ./blocks/code-0/code-0.oo.yaml
+edges: {}
